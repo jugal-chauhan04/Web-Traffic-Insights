@@ -15,15 +15,12 @@ The primary focus is on understanding user interactions with these links. The da
 One of the key takeaways from this project was mastering the use of the groupby function in Pandas. This functionality allowed for efficient aggregation and analysis of data, especially when dealing with various dimensions such as geographic origin and content specifics.
 
 2. Dataframe Integration with Merge:
-
 The project provided valuable insights into utilizing the merge function in Pandas for joining dataframes. This skill was crucial when combining different aspects of the dataset, enhancing the overall understanding of web traffic patterns.
 
 3. Code Organization Strategies:
-
 The experience highlighted the importance of breaking down complex problems into smaller, manageable steps. By adopting a systematic approach to code organization, the project became more streamlined, making it easier to comprehend and troubleshoot.
 
 4. Enhanced Data Visualization with Logarithmic Scaling:
-
 Understanding the impact of data skewness, particularly when dealing with highly skewed data, was a significant learning. Applying logarithmic scaling during plotting proved to be a valuable technique, offering a more meaningful interpretation of visualizations.
 
 5. Data Type Transformation with Factorize:
